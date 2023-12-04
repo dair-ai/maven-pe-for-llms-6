@@ -77,6 +77,6 @@ pip install -r requirements.txt
 
 ## 5. Run the Preparation Exercise
 
-Run the prepare exercise notebook (found inside the [exercises folder](https://github.com/dair-ai/maven-pe-for-llms-6/blob/main/exercises/PE_for_LLMs_Preparation_Exercise.ipynb)). Before attempting the preparation exercise, add a `.env` file to your root folder and add your `OPEN_API_KEY`.
+Run the prepare exercise notebook (found inside the [exercises folder](https://github.com/dair-ai/maven-pe-for-llms-6/blob/main/exercises/PE_for_LLMs_Preparation_Exercise.ipynb)). Before attempting the preparation exercise, add a `.env` file to your root folder and add your `OPENAI_API_KEY`.
 
 That's it! You're all setup to start working on the notebooks and exercises.
